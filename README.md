@@ -1,2 +1,2 @@
-# meteor.3d.arena
-arena 3d meteor z game objects 
+# ppci.c2ir
+convert c into ir
