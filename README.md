@@ -1,2 +1,2 @@
-# ppci.c2ir
-convert c into ir
+# cd.startup.builder
+build start up cds
